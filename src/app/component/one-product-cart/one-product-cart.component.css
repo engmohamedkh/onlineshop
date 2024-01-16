@@ -1,0 +1,24 @@
+img {
+    display: inline;
+    width: 150px;
+}
+
+button {
+    background-color: red;
+    color: white;
+    border-style: none;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.qtty {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    height: 50px;
+}
+
+
+
